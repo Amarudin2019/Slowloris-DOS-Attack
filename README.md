@@ -1,6 +1,4 @@
-**Slow Loris Attack**
-
-How use Slowloris
+**How use Slowloris Attack**
 
 Requirements:
 - sudo apt-get update  
